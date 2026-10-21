@@ -149,6 +149,56 @@
       "kept": 42,
       "emailed": true,
       "note": "All sources answered. No LinkedIn alert file this run."
+    },
+    {
+      "run_at": "2026-10-21T15:44:01+08:00",
+      "checked": [
+        {
+          "source": "MyCareersFuture",
+          "query": "artificial intelligence",
+          "results": 0
+        },
+        {
+          "source": "MyCareersFuture",
+          "query": "machine learning",
+          "results": 0
+        },
+        {
+          "source": "MyCareersFuture",
+          "query": "generative AI",
+          "results": 40
+        },
+        {
+          "source": "MyCareersFuture",
+          "query": "innovation",
+          "results": 40
+        },
+        {
+          "source": "Company site",
+          "query": "greenhouse:databricks",
+          "results": 28
+        },
+        {
+          "source": "Company site",
+          "query": "greenhouse:stripe",
+          "results": 51
+        },
+        {
+          "source": "Company site",
+          "query": "greenhouse:anthropic",
+          "results": 11
+        },
+        {
+          "source": "Company site",
+          "query": "lever:palantir",
+          "results": 5
+        }
+      ],
+      "found": 24,
+      "new": 1,
+      "kept": 43,
+      "emailed": true,
+      "note": "MyCareersFuture 'artificial intelligence': HTTP 504; MyCareersFuture 'machine learning': HTTP 504 No LinkedIn alert file this run."
     }
   ]
 }

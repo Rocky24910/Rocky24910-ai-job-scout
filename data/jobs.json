@@ -1,8 +1,23 @@
 {
   "meta": {
-    "updated_at": "2026-10-21T15:21:04+08:00"
+    "updated_at": "2026-10-21T15:44:01+08:00"
   },
   "jobs": [
+    {
+      "id": "mcf-ad79c4e384f3c07b7ce4c36a5ed92859",
+      "title": "GenAI",
+      "company": "SPI GLOBAL CONTENT HOLDING PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/genai-spi-global-content-holding-ad79c4e384f3c07b7ce4c36a5ed92859",
+      "posted": "2026-10-21",
+      "salary": "S$8,000 to S$12,000 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"GenAI\"",
+      "first_seen": "2026-10-21T15:44:01+08:00",
+      "last_seen": "2026-10-21T15:44:01+08:00"
+    },
     {
       "id": "mcf-6ed0ec85ec8c631ed33f98746af15787",
       "title": "AI Engineering",
@@ -76,7 +91,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-21T15:19:52+08:00",
-      "last_seen": "2026-10-21T15:21:04+08:00"
+      "last_seen": "2026-10-21T15:44:01+08:00"
     },
     {
       "id": "mcf-9f32784a3ef9080ee0b4d3dbb93d1973",
@@ -91,7 +106,7 @@
       "level": "Mid",
       "why": "title has \"Innovation\"",
       "first_seen": "2026-10-21T15:19:52+08:00",
-      "last_seen": "2026-10-21T15:21:04+08:00"
+      "last_seen": "2026-10-21T15:44:01+08:00"
     },
     {
       "id": "mcf-6d4ba63b072c4271824570616040cb0c",
@@ -136,7 +151,7 @@
       "level": "Not stated",
       "why": "title has \"Machine Learning\"",
       "first_seen": "2026-10-21T15:19:52+08:00",
-      "last_seen": "2026-10-21T15:21:04+08:00"
+      "last_seen": "2026-10-21T15:44:01+08:00"
     },
     {
       "id": "mcf-5b609c7a16cb36934e5e98d77c535608",
@@ -196,7 +211,7 @@
       "level": "Senior",
       "why": "title has \"Generative\"",
       "first_seen": "2026-10-21T15:19:52+08:00",
-      "last_seen": "2026-10-21T15:21:04+08:00"
+      "last_seen": "2026-10-21T15:44:01+08:00"
     },
     {
       "id": "mcf-881c4ff690342ef3eedd67bf86461fb7",
@@ -211,7 +226,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-21T15:19:52+08:00",
-      "last_seen": "2026-10-21T15:21:04+08:00"
+      "last_seen": "2026-10-21T15:44:01+08:00"
     },
     {
       "id": "mcf-317eb6a7af157b4e46d2cde406dabb8d",
@@ -226,7 +241,7 @@
       "level": "Mid",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-21T15:19:52+08:00",
-      "last_seen": "2026-10-21T15:21:04+08:00"
+      "last_seen": "2026-10-21T15:44:01+08:00"
     },
     {
       "id": "mcf-052b3e450eebb45d77aa38a27eca2825",
@@ -241,7 +256,7 @@
       "level": "Entry",
       "why": "title has \"Innovation\"",
       "first_seen": "2026-10-21T15:19:52+08:00",
-      "last_seen": "2026-10-21T15:21:04+08:00"
+      "last_seen": "2026-10-21T15:44:01+08:00"
     },
     {
       "id": "mcf-a1c8da7946e4d0dd3296e70e192ec934",
@@ -256,7 +271,7 @@
       "level": "Not stated",
       "why": "title has \"Artificial Intelligence\" and \"AI\"",
       "first_seen": "2026-10-21T15:19:52+08:00",
-      "last_seen": "2026-10-21T15:21:04+08:00"
+      "last_seen": "2026-10-21T15:44:01+08:00"
     },
     {
       "id": "mcf-e946ef1c1a122b92416a1eda74e4c13e",
@@ -301,7 +316,7 @@
       "level": "Not stated",
       "why": "title has \"Generative\" and \"AI\"",
       "first_seen": "2026-10-21T15:19:52+08:00",
-      "last_seen": "2026-10-21T15:21:04+08:00"
+      "last_seen": "2026-10-21T15:44:01+08:00"
     },
     {
       "id": "mcf-c27fea72f77c89da37b3f5cebaaed659",
@@ -331,7 +346,7 @@
       "level": "Not stated",
       "why": "title has \"Data Scientist\"",
       "first_seen": "2026-10-21T15:19:52+08:00",
-      "last_seen": "2026-10-21T15:21:04+08:00"
+      "last_seen": "2026-10-21T15:44:01+08:00"
     },
     {
       "id": "mcf-284c447b2076cf843a5b94f0a1951a48",
@@ -361,7 +376,7 @@
       "level": "Not stated",
       "why": "title has \"Data Scientist\"",
       "first_seen": "2026-10-21T15:19:52+08:00",
-      "last_seen": "2026-10-21T15:21:04+08:00"
+      "last_seen": "2026-10-21T15:44:01+08:00"
     },
     {
       "id": "mcf-e5767db5e75f654b14a73f1e8bdf4bfe",
@@ -421,7 +436,7 @@
       "level": "Not stated",
       "why": "title has \"AI\" and \"ML\"",
       "first_seen": "2026-10-21T15:19:52+08:00",
-      "last_seen": "2026-10-21T15:21:04+08:00"
+      "last_seen": "2026-10-21T15:44:01+08:00"
     },
     {
       "id": "mcf-940062ff6c7fd17faf6ec13254618a0b",
@@ -481,7 +496,7 @@
       "level": "Senior",
       "why": "title has \"Generative\" and \"AI\"",
       "first_seen": "2026-10-21T15:19:52+08:00",
-      "last_seen": "2026-10-21T15:21:04+08:00"
+      "last_seen": "2026-10-21T15:44:01+08:00"
     },
     {
       "id": "mcf-c648a53ba3049b835fbdf4590d5553e7",
@@ -496,7 +511,7 @@
       "level": "Mid",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-21T15:19:52+08:00",
-      "last_seen": "2026-10-21T15:21:04+08:00"
+      "last_seen": "2026-10-21T15:44:01+08:00"
     },
     {
       "id": "mcf-1854853d35410385d27ddb09502bcb05",
@@ -511,7 +526,7 @@
       "level": "Senior",
       "why": "title has \"Computer Vision\" and \"AI\"",
       "first_seen": "2026-10-21T15:19:52+08:00",
-      "last_seen": "2026-10-21T15:21:04+08:00"
+      "last_seen": "2026-10-21T15:44:01+08:00"
     },
     {
       "id": "mcf-484629c36ee307ded9894bd6632635e9",
@@ -526,7 +541,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-21T15:19:52+08:00",
-      "last_seen": "2026-10-21T15:21:04+08:00"
+      "last_seen": "2026-10-21T15:44:01+08:00"
     },
     {
       "id": "mcf-47198a476fd5d0e449d15b267ff90900",
@@ -541,7 +556,7 @@
       "level": "Mid",
       "why": "title has \"Innovation\"",
       "first_seen": "2026-10-21T15:19:52+08:00",
-      "last_seen": "2026-10-21T15:21:04+08:00"
+      "last_seen": "2026-10-21T15:44:01+08:00"
     },
     {
       "id": "mcf-4284bdf3f77565f824e0a7641e2353e7",
@@ -556,7 +571,7 @@
       "level": "Mid",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-21T15:19:52+08:00",
-      "last_seen": "2026-10-21T15:21:04+08:00"
+      "last_seen": "2026-10-21T15:44:01+08:00"
     },
     {
       "id": "mcf-acd50e27dd4d2b517d0f6c02324d4e16",
@@ -571,7 +586,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-21T15:19:52+08:00",
-      "last_seen": "2026-10-21T15:21:04+08:00"
+      "last_seen": "2026-10-21T15:44:01+08:00"
     },
     {
       "id": "mcf-8d86a4f08579a6bb67257314da3eb5d5",
@@ -586,7 +601,7 @@
       "level": "Senior",
       "why": "title has \"Data Scientist\"",
       "first_seen": "2026-10-21T15:19:52+08:00",
-      "last_seen": "2026-10-21T15:21:04+08:00"
+      "last_seen": "2026-10-21T15:44:01+08:00"
     },
     {
       "id": "mcf-2c281905bd5cf5832a3bac97653d6d9c",
@@ -601,7 +616,7 @@
       "level": "Senior",
       "why": "title has \"Data Scientist\"",
       "first_seen": "2026-10-21T15:19:52+08:00",
-      "last_seen": "2026-10-21T15:21:04+08:00"
+      "last_seen": "2026-10-21T15:44:01+08:00"
     },
     {
       "id": "gh-stripe-8081423",
@@ -616,7 +631,7 @@
       "level": "Not stated",
       "why": "title has \"Product Strategy\"",
       "first_seen": "2026-10-21T15:09:41+08:00",
-      "last_seen": "2026-10-21T15:21:04+08:00"
+      "last_seen": "2026-10-21T15:44:01+08:00"
     },
     {
       "id": "gh-databricks-8582993002",
@@ -631,7 +646,7 @@
       "level": "Mid",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-21T15:09:41+08:00",
-      "last_seen": "2026-10-21T15:21:04+08:00"
+      "last_seen": "2026-10-21T15:44:01+08:00"
     }
   ]
 }
