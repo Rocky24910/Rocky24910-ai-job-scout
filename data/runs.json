@@ -1,0 +1,54 @@
+{
+  "runs": [
+    {
+      "run_at": "2026-10-21T15:09:41+08:00",
+      "checked": [
+        {
+          "source": "MyCareersFuture",
+          "query": "artificial intelligence",
+          "results": 0
+        },
+        {
+          "source": "MyCareersFuture",
+          "query": "machine learning",
+          "results": 0
+        },
+        {
+          "source": "MyCareersFuture",
+          "query": "generative AI",
+          "results": 0
+        },
+        {
+          "source": "MyCareersFuture",
+          "query": "innovation",
+          "results": 0
+        },
+        {
+          "source": "Company site",
+          "query": "greenhouse:databricks",
+          "results": 28
+        },
+        {
+          "source": "Company site",
+          "query": "greenhouse:stripe",
+          "results": 51
+        },
+        {
+          "source": "Company site",
+          "query": "greenhouse:anthropic",
+          "results": 11
+        },
+        {
+          "source": "Company site",
+          "query": "lever:palantir",
+          "results": 5
+        }
+      ],
+      "found": 2,
+      "new": 2,
+      "kept": 2,
+      "emailed": false,
+      "note": "MyCareersFuture 'artificial intelligence': blocked by the cloud network (403). Add this host under Custom network access.; MyCareersFuture 'machine learning': blocked by the cloud network (403). Add this host under Custom network access.; MyCareersFuture 'generative AI': blocked by the cloud network (403). Add this host under Custom network access.; MyCareersFuture 'innovation': blocked by the cloud network (403). Add this host under Custom network access. No LinkedIn alert file this run."
+    }
+  ]
+}
